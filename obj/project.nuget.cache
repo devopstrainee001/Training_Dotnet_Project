@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAQk5a5yaMhDdiWzPWL6k8bC7yLnK5uyshBLkC11OIUSBx3ednpRQbTMkBiqS462tzSS1zE9f12kQ448+Hk3GQ==",
+  "success": true,
+  "projectFilePath": "D:\\website\\Training-learning-project\\Training-learning-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
